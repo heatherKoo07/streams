@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "MyStream",
+      "description": "my stream",
+      "id": 1
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "This change was made by a PATCH request",
+      "userId": "105211239962043317003",
+      "id": 6
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about to refactoring!",
+      "id": 7
+    },
+    {
+      "title": "hello",
+      "description": "kitty",
+      "userId": "105211239962043317003",
+      "id": 8
+    }
+  ]
+}
